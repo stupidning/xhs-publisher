@@ -1,5 +1,5 @@
 ---
-name: "xhs-publisher"
+name: "stupidning-xhs-publisher"
 display_name: "XHS 笔记发布助手"
 display_name_en: "XHS Note Publisher"
 description: "小红书自动发文技能。当使用者想在小红书发布图文笔记、用 AI 生成小红书内容并自动发布、或自动回复评论和私信时使用。流程：生成内容 → 去水印 → 浏览器自动发布 → 自动回复。"
