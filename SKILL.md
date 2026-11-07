@@ -1,8 +1,12 @@
 ---
-name: xhs-publisher
+name: "xhs-publisher"
+display_name: "XHS 笔记发布助手"
+display_name_en: "XHS Note Publisher"
 description: "小红书自动发文技能。当使用者想在小红书发布图文笔记、用 AI 生成小红书内容并自动发布、或自动回复评论和私信时使用。流程：生成内容 → 去水印 → 浏览器自动发布 → 自动回复。"
 description_zh: "小红书图文笔记自动发文：生成内容、去水印、浏览器自动发布、评论私信自动回复。"
 description_en: "Publish image-text notes to Xiaohongshu automatically - generate content, remove watermarks, publish via browser automation, and auto-reply to comments and DMs."
+examples_zh: ["帮我发一篇关于秋冬穿搭的笔记，参考这个爆款的写法：[笔记链接]", "按我的人设写一篇收纳好物分享并发布", "开启评论和私信自动回复，晚上 11 点后不要回"]
+examples_en: ["Publish a note about autumn outfits based on this viral post: [link]", "Write and publish a home-organizing note in my persona style", "Enable auto-reply for comments and DMs, stay silent after 11pm"]
 version: "1.0.0"
 author: "workbuddy-user"
 agent_created: true
