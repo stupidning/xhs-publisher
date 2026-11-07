@@ -1,10 +1,10 @@
 ---
 name: xhs-publisher
-description: 小红书自动发文技能。当使用者想在小红书发布图文笔记、用 AI 生成小红书内容并自动发布、或自动回复评论和私信时使用。流程：生成内容 → 去水印 → 浏览器自动发布 → 自动回复。
-description_zh: 小红书图文笔记自动发文：生成内容、去水印、浏览器自动发布、评论私信自动回复。
-description_en: Publish image-text notes to Xiaohongshu automatically: generate content, remove watermarks, publish via browser automation, and auto-reply to comments and DMs.
-version: 1.0.0
-author: workbuddy-user
+description: "小红书自动发文技能。当使用者想在小红书发布图文笔记、用 AI 生成小红书内容并自动发布、或自动回复评论和私信时使用。流程：生成内容 → 去水印 → 浏览器自动发布 → 自动回复。"
+description_zh: "小红书图文笔记自动发文：生成内容、去水印、浏览器自动发布、评论私信自动回复。"
+description_en: "Publish image-text notes to Xiaohongshu automatically - generate content, remove watermarks, publish via browser automation, and auto-reply to comments and DMs."
+version: "1.0.0"
+author: "workbuddy-user"
 agent_created: true
 ---
 
